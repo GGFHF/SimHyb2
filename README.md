@@ -7,7 +7,7 @@ To run SIMHYB2 simply download and decompress the “simhyb2.rar” file. It inc
 SIMHYB 2 can also be executed from the command line: move to the folder where simhyb2.jar, simhyb.properties, and the logs folder are located and just execute the command java –jar “simhyb2.jar”
 
 Refer to the SIMHYB 2 manual (https://github.com/GGFHF/SimHyb2/blob/main/Package/SimHyb2%20User%20Manual.pdf) for installation instructions, a description of the software and examples of use. Also, you can see the paper:
-Soto Á, Rodríguez-Martínez D, López de Heredia U (2023) SIMHYB 2: a software tool to explore and illustrate evolutionary forces in Population Genetics teaching and research (submitted)
+Soto Á, Rodríguez-Martínez D, López de Heredia U (2024) SIMHYB 2: a software tool to explore and illustrate evolutionary forces in Population Genetics teaching and research. Application to Conservation Genetics. Journal of Biological Education, doi:10.1080/00219266.2024.2420017
 
 This software has been developed by:
 
